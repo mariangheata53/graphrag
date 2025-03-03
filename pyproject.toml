@@ -66,7 +66,7 @@ numpy = "^1.25.2"
 graspologic = "^3.4.1"
 networkx = "^3.4.2"
 pandas = "^2.2.3"
-pyarrow = "^15.0.0"
+pyarrow = ">=15,<20"
 umap-learn = "^0.5.6"
 
 # Configuration
